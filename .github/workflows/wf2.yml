@@ -1,0 +1,16 @@
+name: wf-2
+on: workflow_dispatch
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Greetings
+        run: 
+          echo "Hello World Again"
+          echo "Success is 100%"
+      - name: Print Goodbye
+        run: 
+          echo "Mission Accomplished Again"
+          echo "See you again"
+        
+        
