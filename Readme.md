@@ -5,3 +5,6 @@ This is a demo repo for practicing github.
 Step 1> This is step1
 Step 2> This is step2
 Step 3> This is step3
+
+# Additional improvements from Bjraman
+Step 6> This is step6
