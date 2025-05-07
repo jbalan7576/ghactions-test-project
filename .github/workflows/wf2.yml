@@ -5,11 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Greetings
-        run: 
+        run: |
           echo "Hello World Again"
           echo "Success is 100%"
       - name: Print Goodbye
-        run: 
+        run: |
           echo "Mission Accomplished Again"
           echo "See you again"
         
